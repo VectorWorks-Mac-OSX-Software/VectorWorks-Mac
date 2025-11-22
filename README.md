@@ -1,6 +1,6 @@
 # VectorWorks Mac Premium License
 
-<img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/vectorworks-y6drxf04hlq6jkwuw6f1ec.png/vectorworks-e707hvimyhuajo7z8qeob4.png?_a=DATAg1AAZAA0" width="200" alt="App icon" align="left"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Vectorworks_Logo.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>VectorWorks for macOS</h3>
@@ -19,7 +19,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Commercial-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://static.macupdate.com/screenshots/284384/m/vectorworks-screenshot.png?v=1605813988" width="824" alt="Screenshot"/>
+<img src="https://res.cloudinary.com/vectorworks/image/upload/q_auto/f_auto/article/blog/quick-start-guide-new-enscape-for-mac-and-vectorworks/Enscape.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -51,7 +51,7 @@ More experienced users can tune <a href="https://placeholder.link">behavioral pr
 ## Screenshots
 
 <p align="center">
-  <img src="https://res.cloudinary.com/vectorworks/image/upload/q_auto/f_auto/article/blog/5-things-the-new-macos-big-sur-optimized-with-m1-brings-to-vectorworks/BigSur4.png" width="824" alt="VectorWorks screenshot"/>
+  <img src="https://res.cloudinary.com/vectorworks/video/upload/so_0/pages/launch/2024/DE/VWX24_UI_Modernization_LOC_DE_231005.jpg" width="824" alt="VectorWorks screenshot"/>
 </p>
 
 ---
